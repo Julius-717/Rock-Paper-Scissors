@@ -35,7 +35,7 @@ Just git clone the app to and view it on the browser
 There are no Known bugs. If any bug seen, report to, waynejulius10@gmail.com
 
 ## Support or contribution instructions
-If you may require to make any changes to this project,reach out muchokijnrbenson@gmail.com
+If you may require to make any changes to this project,reach out waynejulius10@gmail.com
 
 
 ## Contact information
