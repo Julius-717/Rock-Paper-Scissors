@@ -1,0 +1,40 @@
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="main.css" />
+</head>
+
+<body>
+  <div id="rounds_counter" class="dis_flex centered_around">
+     Round
+
+  </div>
+  <div id="container" class="dis_flex">
+
+      Player
+       Vs
+       Computer
+    </header>
+    <div id="group" class="dis_flex centered_around">
+      <div id="score" class="dis_flex centered_around">
+        <span id="player_score">0
+
+        <span id="computer_score">0
+      </div>
+      <div id="buttons" class="dis_flex centered_around">
+        <button data-selection="rock" class="game_selection" id="rock" value="rock">Rock</button>
+        <button data-selection="paper" class="game_selection" id="paper" value="paper">Paper</button>
+        <button data-selection="scissors" class="game_selection" id="scissors" value="scissors">Scissors</button>
+      </div>
+      <div id="result"></div>
+    </div>
+    <footer>
+      <button id="reset_button" value="reset">Reset</button>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
