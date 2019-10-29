@@ -1,5 +1,5 @@
 # RockPaperScissors
-### CREATED BY  Nyaga Benson
+### CREATED BY  Julius Kash
 
 ----------------------------------------------------------------------
 
