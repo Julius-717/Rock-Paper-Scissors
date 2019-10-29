@@ -39,7 +39,7 @@ If you may require to make any changes to this project,reach out waynejulius10@g
 
 
 ## Contact information
-For any questions or suggestions contact me through muchokijnrbenson@gmail.com
+For any questions or suggestions contact me through waynejulius10@gmail.com
 
 
 -----------------------------------------------------------------------------
